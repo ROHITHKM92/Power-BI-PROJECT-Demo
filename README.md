@@ -10,7 +10,7 @@ This Power BI dashboard, titled 'AMAZON SALES ANALYSIS REPORT,' aims to provide 
 
 
 ## Data Sourcing
-Not until I came up with the above mentioned questions did I went ahead to get the data. I then downloaded the csv file, and extracted it into Power BI for clening, analysis and visualization.
+Not until I came up with the above mentioned questions did I went ahead to get the data. I then downloaded the excel file, and extracted it into Power BI for clening, analysis and visualization.
 
 It contains 3 sheets/tables:
 1. ORDERS with 51,291 rows and 24 columns
