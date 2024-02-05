@@ -1,7 +1,7 @@
 # AMAZON SALES ANALYSIS REPORT
 
 
-![](data.jpeg)
+![db1](https://github.com/ROHITHKM92/Power-BI-PROJECT-1/assets/87298902/967752df-ff98-4e29-8f54-f1e637aff5e7)
 
 ## Introduction
 
